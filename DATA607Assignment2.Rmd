@@ -28,7 +28,7 @@ Part 4: Missing data strategy
 Note: consider that later in the course you will revisit this information you have collected and
 will use it to implement a Recommender.
 
-##Build Table and Store Data in SQL Database
+## Build Table and Store Data in SQL Database
 Installed MYSQL and build popular movie ratings table. Populated table with sample data
 
 
